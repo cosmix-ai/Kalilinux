@@ -1,5 +1,5 @@
 local http_request = http_request or syn.request or request
-local v = "1.5" -- Updated version with glass theme fix
+local v = "2.0" -- Updated version with glass theme fix
 
 -- Send information to Discord Webhook
 if http_request then
